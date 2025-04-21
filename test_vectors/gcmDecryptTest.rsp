@@ -1,0 +1,19 @@
+# CAVS 14.0
+# GCM Decrypt with keysize 256 test information
+# Generated on Fri Aug 31 11:31:25 2012
+
+
+
+[Keylen = 256]
+[IVlen = 96]
+[PTlen = 0]
+[AADlen = 0]
+[Taglen = 128]
+
+Count = 0
+Key = f5a2b27c74355872eb3ef6c5feafaa740e6ae990d9d48c3bd9bb8235e589f010
+IV = 58d2240f580a31c1d24948e9
+CT = 
+AAD = 
+Tag = 15e051a5e4a5f5da6cea92e2ebee5bac
+PT = 
